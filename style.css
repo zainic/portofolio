@@ -269,6 +269,7 @@ section:first-of-type {
 .project-cell:hover {
     cursor: pointer;
     transform: scale(0.95);
+    box-shadow: 0 0 10px 5px var(--color-a);
 }
 
 .project-cell:hover .caption {
